@@ -1,4 +1,4 @@
-### Hi there, I'm [Gaurav!](https://quickdevnotes.com) 👋
+### Hi there, I'm [Gaurav!](https://quickdevnotes.com) 👋  ![](https://komarev.com/ghpvc/?username=gauravgahlot)
 
 A Software Engineer from India. 
 
