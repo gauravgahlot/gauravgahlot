@@ -4,8 +4,8 @@ A Software Engineer from India.
 
 I'm a [public speaker](https://www.quickdevnotes.com/speaking/) and open source contributor.
 
-I share about my work, and learning on my blog [QuickDevNotes](https://www.quickdevnotes.com/).
-I also share my experience about different technologies, meetups, and conferences on my [YouTube channel](https://www.youtube.com/c/quickdevnotes/). 
+I share about my work, and learning on my blog [gauravgahlot.in](https://gauravgahlot.in/).
+I also share my experience about different technologies, meetups, and conferences on my [YouTube channel](https://www.youtube.com/c/GauravGahlotYT/). 
 
 When I'm not coding, I like to go out for a ride :bicyclist: or play badminton. 
 I also like to stay home and play :guitar: singing along my favorite songs.
