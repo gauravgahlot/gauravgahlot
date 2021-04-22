@@ -14,6 +14,7 @@ I also like to stay home and play :guitar: singing along my favorite songs.
 - 🌱 I’m currently learning about bare metal and its ecosystem
 - 💬 Ask me about anything [here](https://github.com/gauravgahlot/gauravgahlot/issues)
 
+[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravgahlot)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gauravgahlot/gauravgahlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
