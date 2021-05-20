@@ -1,8 +1,8 @@
-### Hi there, I'm [Gaurav!](https://quickdevnotes.com) 👋  ![](https://komarev.com/ghpvc/?username=gauravgahlot)
+### Hi there, I'm [Gaurav!](https://gauravgahlot.in) 👋  ![](https://komarev.com/ghpvc/?username=gauravgahlot)
 
 A Software Engineer from India. 
 
-I'm a [public speaker](https://www.quickdevnotes.com/speaking/) and open source contributor.
+I'm a [public speaker](https://gauravgahlot.in/conferences) and open source contributor.
 
 I share about my work, and learning on my blog [gauravgahlot.in](https://gauravgahlot.in/).
 I also share my experience about different technologies, meetups, and conferences on my [YouTube channel](https://www.youtube.com/c/GauravGahlotYT/). 
