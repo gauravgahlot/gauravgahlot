@@ -2,6 +2,11 @@
 
 A Software Engineer from India. 
 
+<!--
+Uncomment to show contributors to the repository
+![GitHub Contributors Image](https://contrib.rocks/image?repo=kubnix/tinkerbell-dashboard)
+-->
+
 I'm an open source contributor and [CNCF Speaker](https://www.cncf.io/speaker/gahlotgaurav/).
 All my talks can be found [here](https://gauravgahlot.in/conferences).
 
