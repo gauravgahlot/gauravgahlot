@@ -7,26 +7,24 @@ Uncomment to show contributors to the repository
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=kubnix/tinkerbell-dashboard)
 -->
 
-I'm an open source contributor and [CNCF Speaker](https://www.cncf.io/speaker/gahlotgaurav/).
-All my talks can be found [here](https://gauravgahlot.in/conferences).
-
 I share about my work, and learning on my blog [gauravgahlot.in](https://gauravgahlot.in/).
 I also share my experience about different technologies, meetups, and conferences on my [YouTube channel](https://www.youtube.com/c/GauravGahlotYT/). 
+All my talks can be found [here](https://gauravgahlot.in/conferences).
 
 When I'm not coding, I like to go out for a ride :bicyclist: or play badminton. 
 I also like to stay home and play :guitar: singing along my favorite songs.
 
-- 🔭 I’m currently working on [Fission](https://fission.io) and [Falco](https://falco.org/).
-- 🌱 I’m currently learning about serverless (FaaS), security, eBPF and the likes.
+- 🔭 I’m currently working on Go, Kubernetes, and AWS.
+- 🌱 I’m currently learning about and working with Kubernetes Operators & Controllers, and KaaS (Kubernetes as a Service).
 - 💬 Ask me about anything [here](https://github.com/gauravgahlot/gauravgahlot/issues).
+- 😄 Pronouns: He/Him
 
-### 📈 &nbsp;Analytics
+## GitHub Stats :
+[![Kulendu's github activity graph](https://activity-graph.herokuapp.com/graph?username=gauravgahlot&theme=xcode)](https://github.com/gauravgahlot)
 
-<p align="center">
-  <a href="https://github.com/bufgix">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gauravgahlot&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gauravgahlot&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
-  </a>
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gauravgahlot&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravgahlot&theme=tokyonight" />
 </p>
 
 
@@ -42,7 +40,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything [here](https://github.com/gauravgahlot/gauravgahlot/issues)
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 
