@@ -20,7 +20,6 @@ I also like to stay home and play :guitar: singing along my favorite songs.
 - 😄 Pronouns: He/Him
 
 ## GitHub Stats :
-[![Kulendu's github activity graph](https://activity-graph.herokuapp.com/graph?username=gauravgahlot&theme=xcode)](https://github.com/gauravgahlot)
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gauravgahlot&show_icons=true&theme=tokyonight" />
