@@ -2,14 +2,10 @@
 
 A Software Engineer from India. 
 
-<!--
-Uncomment to show contributors to the repository
-![GitHub Contributors Image](https://contrib.rocks/image?repo=kubnix/tinkerbell-dashboard)
--->
 
 I share about my work, and learning on my blog [gauravgahlot.in](https://gauravgahlot.in/).
 I also share my experience about different technologies, meetups, and conferences on my [YouTube channel](https://www.youtube.com/c/GauravGahlotYT/). 
-All my talks can be found [here](https://gauravgahlot.in/conferences).
+All my talks can be found [here](https://gauravgahlot.in/talks/).
 
 When I'm not coding, I like to go out for a ride :bicyclist: or play badminton. 
 I also like to stay home and play :guitar: singing along my favorite songs.
