@@ -14,13 +14,7 @@ I also like to stay home and play :guitar: singing along my favorite songs.
 - 💬 Ask me about anything [here](https://github.com/gauravgahlot/gauravgahlot/issues).
 - 😄 Pronouns: He/Him
 
-## Open Source Contributions
-
-### 2024
-
-| Project | Issue | Pull Request | Language |
-|---------|-------|--------------|--------|
-||||
+## OSS Contributions
 
 ### 2023
 
@@ -66,12 +60,43 @@ I also like to stay home and play :guitar: singing along my favorite songs.
 
 | Project | Issue | Pull Request | Language |
 |---------|-------|--------------|--------|
-||||
+|[falcosidekick][f]|Add fission output type|[PR][f-1-pr]|Go|
+|[falcosecurity/test-infra][fti]|Add prebuilt drivers configs for Ubuntu Generic Kernel 5.12.3-arch|[PR][fti-pr]||
+|[grpc-go][gg]|[Avoid using context.Background in tests][gg-1-issue]|[PR][gg-1-pr]|Go|
+|[grpc-go][gg]|[Standardize "experimental" warnings across all packages][gg-2-issue]|[PR][gg-2-pr]|Go|
+|[grpc-go][gg]|[Misleading documentation on status.FromError][gg-3-issue]|[PR][gg-3-pr]||
+
+[f-1-pr]: https://github.com/falcosecurity/falcosidekick/pull/255
+[gg]: https://github.com/grpc/grpc-go
+[gg-1-issue]: https://github.com/grpc/grpc-go/issues/1878
+[gg-1-pr]: https://github.com/grpc/grpc-go/pull/3949
+[gg-2-issue]: https://github.com/grpc/grpc-go/issues/3605
+[gg-2-pr]: https://github.com/grpc/grpc-go/pull/3917
+[gg-3-issue]: https://github.com/grpc/grpc-go/issues/4066
+[gg-3-pr]: https://github.com/grpc/grpc-go/pull/4196
+[fti]: https://github.com/falcosecurity/test-infra
+[fti-pr]: https://github.com/falcosecurity/test-infra/pull/466
+
+## Projects Maintained
+
+A non exhautive list of projects I actively help maintain, or have formerly helped maintaining:
+
+### Former Contributions
+
+- [Tinkerbell](https://github.com/tinkerbell)
+  - [tinkerbell/tink](https://github.com/tinkerbell/tink/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Agauravgahlot)
+  - [tinkerbell/tinkerbell.org](https://github.com/tinkerbell/tinkerbell.org/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Agauravgahlot)
+  - [tinkerbell/hegel](https://github.com/tinkerbell/hegel/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Agauravgahlot+is%3Amerged)
+  - [tinkerbell/playground](https://github.com/tinkerbell/playground/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Agauravgahlot)
+
+- [Fission](https://fission.io)
+  - [fission/fission](https://github.com/fission/fission/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Agauravgahlot)
+  - [fission/examples](https://github.com/fission/examples/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Agauravgahlot+is%3Aclosed)
+  - [fission/docs.fission.io](https://github.com/fission/docs.fission.io/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Agauravgahlot+is%3Aclosed)
+  - [fission/blog.fission.io](https://github.com/fission/blog.fission.io/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Agauravgahlot+is%3Aclosed)
 
 <!--
-
 ## GitHub Stats:
-
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gauravgahlot&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgahlot&exclude_repo=charts,gauravgahlot.in,dotfiles,blog.fission.io,tinkerbell-docs&theme=tokyonight"/>
@@ -87,6 +112,9 @@ I also like to stay home and play :guitar: singing along my favorite songs.
 
 - ⚡ Fun fact: ...
 -->
+
+---
+<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/gauravgahlot" target="_blank">
