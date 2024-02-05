@@ -68,6 +68,8 @@ I also like to stay home and play :guitar: singing along my favorite songs.
 |---------|-------|--------------|--------|
 ||||
 
+<!--
+
 ## GitHub Stats:
 
 <p>
@@ -75,11 +77,6 @@ I also like to stay home and play :guitar: singing along my favorite songs.
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgahlot&exclude_repo=charts,gauravgahlot.in,dotfiles,blog.fission.io,tinkerbell-docs&theme=tokyonight"/>
 </p>
 
-<!--
-**gauravgahlot/gauravgahlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravgahlot)](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Tinkerbell](https://tinkerbell.org)
 - 🌱 I’m currently learning ...
