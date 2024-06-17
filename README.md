@@ -1,12 +1,12 @@
-# Hi there, I'm [Gaurav!](https://gauravgahlot.in) 👋  ![](https://komarev.com/ghpvc/?username=gauravgahlot)
+# Hi there, I'm [Gaurav!](https://gauravgahlot.in) 👋 ![](https://komarev.com/ghpvc/?username=gauravgahlot)
 
-A Software Engineer from India. 
+A Software Engineer from India.
 
 I share about my work, and learning on my blog [gauravgahlot.in](https://gauravgahlot.in/).
-I also share my experience about different technologies, meetups, and conferences on my [YouTube channel](https://www.youtube.com/c/GauravGahlotYT/). 
+I also share my experience about different technologies, meetups, and conferences on my [YouTube channel](https://www.youtube.com/c/GauravGahlotYT/).
 All my talks can be found [here](https://gauravgahlot.in/talks/).
 
-When I'm not coding, I like to go out for a ride :bicyclist: or play badminton. 
+When I'm not coding, I like to go out for a ride :bicyclist: or play badminton.
 I also like to stay home and play :guitar: singing along my favorite songs.
 
 - 🔭 I’m currently working on Rust, Go, Kubernetes, and AWS.
@@ -16,11 +16,20 @@ I also like to stay home and play :guitar: singing along my favorite songs.
 
 ## OSS Contributions
 
+### 2024
+
+| Project                      | Issue                                       | Pull Request  | Language |
+| ---------------------------- | ------------------------------------------- | ------------- | -------- |
+| [fission/environments][fenv] | Remove deprecated package in Go environment | [PR][fenv-pr] | Go       |
+
+[fenv]: https://github.com/fission/environments
+[fenv-pr]: https://github.com/fission/environments/pull/345
+
 ### 2023
 
-| Project | Issue | Pull Request | Language |
-|---------|-------|--------------|--------|
-| [Akri][akri] | [Container best practice is to use ENTRYPOINT rather than CMD][akri-issue] | [PR][akri-pr] | |
+| Project      | Issue                                                                      | Pull Request  | Language |
+| ------------ | -------------------------------------------------------------------------- | ------------- | -------- |
+| [Akri][akri] | [Container best practice is to use ENTRYPOINT rather than CMD][akri-issue] | [PR][akri-pr] |          |
 
 [akri]: https://docs.akri.sh/
 [akri-issue]: https://github.com/project-akri/akri/issues/239
@@ -28,15 +37,15 @@ I also like to stay home and play :guitar: singing along my favorite songs.
 
 ### 2022
 
-| Project | Issue | Pull Request | Language |
-|---------|-------|--------------|--------|
-|[testcontainers-go][tg]| [Log docker server info][tg-1-issue]| [PR][tg-1-pr]| Go |
-|[testcontainers-go][tg]| [Create system requirements parent docs page for podman and colima][tg-2-issue]| [PR][tg-2-pr]| Go |
-|[testcontainers-go][tg]| [Support returning all IP addresses of a container instead of just one][tg-3-issue]| [PR][tg-3-pr]| Go |
-|[gidari][g]|[Dockerize gofumpt][g-1-issue]|[PR][g-1-pr]||
-|[gidari][g]|[Move dockerfiles to a docker/ directory][g-2-issue]|[PR][g-2-pr]||
-|[gidari][g]|[Make gidari binary installable][g-3-issue]|[PR][g-3-pr]|Go|
-|[falcosidekick][f]|[Support AWS Kinesis as an output][f-issue]|[PR][f-pr]|Go|
+| Project                 | Issue                                                                               | Pull Request  | Language |
+| ----------------------- | ----------------------------------------------------------------------------------- | ------------- | -------- |
+| [testcontainers-go][tg] | [Log docker server info][tg-1-issue]                                                | [PR][tg-1-pr] | Go       |
+| [testcontainers-go][tg] | [Create system requirements parent docs page for podman and colima][tg-2-issue]     | [PR][tg-2-pr] | Go       |
+| [testcontainers-go][tg] | [Support returning all IP addresses of a container instead of just one][tg-3-issue] | [PR][tg-3-pr] | Go       |
+| [gidari][g]             | [Dockerize gofumpt][g-1-issue]                                                      | [PR][g-1-pr]  |          |
+| [gidari][g]             | [Move dockerfiles to a docker/ directory][g-2-issue]                                | [PR][g-2-pr]  |          |
+| [gidari][g]             | [Make gidari binary installable][g-3-issue]                                         | [PR][g-3-pr]  | Go       |
+| [falcosidekick][f]      | [Support AWS Kinesis as an output][f-issue]                                         | [PR][f-pr]    | Go       |
 
 [tg]: https://golang.testcontainers.org/
 [tg-1-issue]: https://github.com/testcontainers/testcontainers-go/issues/546
@@ -58,13 +67,13 @@ I also like to stay home and play :guitar: singing along my favorite songs.
 
 ### 2021
 
-| Project | Issue | Pull Request | Language |
-|---------|-------|--------------|--------|
-|[falcosidekick][f]|Add fission output type|[PR][f-1-pr]|Go|
-|[falcosecurity/test-infra][fti]|Add prebuilt drivers configs for Ubuntu Generic Kernel 5.12.3-arch|[PR][fti-pr]||
-|[grpc-go][gg]|[Avoid using context.Background in tests][gg-1-issue]|[PR][gg-1-pr]|Go|
-|[grpc-go][gg]|[Standardize "experimental" warnings across all packages][gg-2-issue]|[PR][gg-2-pr]|Go|
-|[grpc-go][gg]|[Misleading documentation on status.FromError][gg-3-issue]|[PR][gg-3-pr]||
+| Project                         | Issue                                                                 | Pull Request  | Language |
+| ------------------------------- | --------------------------------------------------------------------- | ------------- | -------- |
+| [falcosidekick][f]              | Add fission output type                                               | [PR][f-1-pr]  | Go       |
+| [falcosecurity/test-infra][fti] | Add prebuilt drivers configs for Ubuntu Generic Kernel 5.12.3-arch    | [PR][fti-pr]  |          |
+| [grpc-go][gg]                   | [Avoid using context.Background in tests][gg-1-issue]                 | [PR][gg-1-pr] | Go       |
+| [grpc-go][gg]                   | [Standardize "experimental" warnings across all packages][gg-2-issue] | [PR][gg-2-pr] | Go       |
+| [grpc-go][gg]                   | [Misleading documentation on status.FromError][gg-3-issue]            | [PR][gg-3-pr] |          |
 
 [f-1-pr]: https://github.com/falcosecurity/falcosidekick/pull/255
 [gg]: https://github.com/grpc/grpc-go
@@ -84,6 +93,7 @@ A non exhautive list of projects I actively help maintain, or have formerly help
 ### Former Contributions
 
 - [Tinkerbell](https://github.com/tinkerbell)
+
   - [tinkerbell/tink](https://github.com/tinkerbell/tink/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Agauravgahlot)
   - [tinkerbell/tinkerbell.org](https://github.com/tinkerbell/tinkerbell.org/pulls?q=is%3Apr+sort%3Aupdated-desc+is%3Amerged+author%3Agauravgahlot)
   - [tinkerbell/hegel](https://github.com/tinkerbell/hegel/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Agauravgahlot+is%3Amerged)
@@ -114,6 +124,7 @@ A non exhautive list of projects I actively help maintain, or have formerly help
 -->
 
 ---
+
 <br>
 
 <p align="center">
@@ -121,4 +132,3 @@ A non exhautive list of projects I actively help maintain, or have formerly help
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="gauravgahlot" />
   </a>
 </p>
-
