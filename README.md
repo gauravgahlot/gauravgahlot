@@ -18,12 +18,15 @@ I also like to stay home and play :guitar: singing along my favorite songs.
 
 ### 2024
 
-| Project                      | Issue                                       | Pull Request  | Language |
-| ---------------------------- | ------------------------------------------- | ------------- | -------- |
-| [fission/environments][fenv] | Remove deprecated package in Go environment | [PR][fenv-pr] | Go       |
+| Project                      | Issue                                         | Pull Request    | Language |
+| ---------------------------- | --------------------------------------------- | --------------- | -------- |
+| [fission/environments][fenv] | Remove deprecated package in Go environment   | [PR][fenv-pr]   | Go       |
+| [fission/environments][fenv] | [Deprecate old Go environments][fenv-1-issue] | [PR][fenv-1-pr] | Go       |
 
 [fenv]: https://github.com/fission/environments
 [fenv-pr]: https://github.com/fission/environments/pull/345
+[fenv-1-issue]: https://github.com/fission/environments/issues/347
+[fenv-1-pr]: https://github.com/fission/environments/pull/348
 
 ### 2023
 
