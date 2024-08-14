@@ -20,9 +20,12 @@ I also like to stay home and play :guitar: singing along my favorite songs.
 
 | Project                      | Issue                                         | Pull Request    | Language |
 | ---------------------------- | --------------------------------------------- | --------------- | -------- |
+| [kcp-dev/kcp][kcp]           | Fixed typos across the repository             | [PR][kcp-pr]    | Go       |
 | [fission/environments][fenv] | Remove deprecated package in Go environment   | [PR][fenv-pr]   | Go       |
 | [fission/environments][fenv] | [Deprecate old Go environments][fenv-1-issue] | [PR][fenv-1-pr] | Go       |
 
+[kcp]: https://github.com/kcp-dev/kcp
+[kcp-pr]: https://github.com/kcp-dev/kcp/pull/3151
 [fenv]: https://github.com/fission/environments
 [fenv-pr]: https://github.com/fission/environments/pull/345
 [fenv-1-issue]: https://github.com/fission/environments/issues/347
