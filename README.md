@@ -3,7 +3,7 @@
 A Software Engineer from India.
 
 I share about my work, and learning on my blog [gauravgahlot.in](https://gauravgahlot.in/).
-I also share my experience about different technologies, meetups, and conferences on my [YouTube channel](https://www.youtube.com/c/GauravGahlotYT/).
+I also share my experience about different technologies, meetups, and conferences on my [YouTube channel](https://www.youtube.com/@GauravGahlotsVideos).
 All my talks can be found [here](https://gauravgahlot.in/talks/).
 
 When I'm not coding, I like to go out for a ride :bicyclist: or play badminton.
